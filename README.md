@@ -5,10 +5,11 @@
 학생부문
 MoAS - ITM
 
+Contest link : https://www.oss.kr/dev_competition
 
 Repository Name : OpenSourceSoftwareContest-FreeassingmentStudentpart-MoAS-InToMirror
       
-<구성>      
+<구성 - Tree>      
 
       ━ OpenSourceSoftwareContest-FreeassingmentStudentpart-MoAS-InToMirror     
           ┣ MoAS_ITM_AndroidApplicaion               #AndroidApplication 관련 폴더              
@@ -18,10 +19,10 @@ Repository Name : OpenSourceSoftwareContest-FreeassingmentStudentpart-MoAS-InToM
           ┗ README.MD
           
 
-<개발자>
+<개발자 - developer>
       
-      ┏팀장 배도혁 -> Management, Support
-      ┣팀원 김동우 -> Application(XML, JAVA)
-      ┣팀원 류찬주 -> GUI(python)
-      ┣팀원 서민주 -> FaceLearning, FaceDetection ()
-      ┗팀원 이준희 -> Mechanical Desing
+      ┏ 팀장 배도혁 -> Management, Support
+      ┣ 팀원 김동우 -> Application(XML, JAVA)
+      ┣ 팀원 류찬주 -> GUI(python)
+      ┣ 팀원 서민주 -> FaceLearning, FaceDetection ()
+      ┗ 팀원 이준희 -> Mechanical Desing
