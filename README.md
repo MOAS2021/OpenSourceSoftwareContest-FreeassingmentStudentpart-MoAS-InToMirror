@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=OSSContest%20MoAS&fontSize=90)
+
+
+
+
 ## README
 
 공개SW개발자대회
@@ -36,3 +41,8 @@ Repository Link : https://github.com/MOAS2021/OpenSourceSoftwareContest-Freeassi
 
 
 contact : moas4408moas@gmail.com
+
+
+
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
