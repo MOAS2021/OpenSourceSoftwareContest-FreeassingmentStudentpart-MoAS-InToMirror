@@ -12,10 +12,10 @@ Repository Name : OpenSourceSoftwareContest-FreeassingmentStudentpart-MoAS-InToM
 <구성 - Tree>      
 
       ━ OpenSourceSoftwareContest-FreeassingmentStudentpart-MoAS-InToMirror     
-          ┣ MoAS_ITM_AndroidApplicaion               #AndroidApplication 관련 폴더              
-              ┣ AndroidApplication_Sourcecode        #AndroidStudio에서 개발한 Sourcecode 관련 폴더(Xml, Java)                    
-              ┣ ITM.apk                              #AndroidOS에서 설치 가능한 apk파일            
-          ┣ MoAS_ITM_GUI                             #GUI 관련 폴더            
+          ┣ MoAS_ITM_AndroidApplicaion               #AndroidApplication 관련 폴더
+              ┣ AndroidApplication_Sourcecode        #AndroidStudio에서 개발한 Sourcecode 관련 폴더(Xml, Java)
+              ┣ ITM.apk                              #AndroidOS에서 설치 가능한 apk파일
+          ┣ MoAS_ITM_GUI                             #GUI 관련 폴더
           ┗ README.MD
           
 
