@@ -23,6 +23,6 @@ Repository Name : OpenSourceSoftwareContest-FreeassingmentStudentpart-MoAS-InToM
       
       ┏ 팀장 배도혁 -> Management, Support
       ┣ 팀원 김동우 -> Application(XML, JAVA)
-      ┣ 팀원 류찬주 -> GUI(python)
-      ┣ 팀원 서민주 -> FaceLearning, FaceDetection ()
+      ┣ 팀원 류찬주 -> GUI(Python)
+      ┣ 팀원 서민주 -> FaceLearning, FaceDetection (Python)
       ┗ 팀원 이준희 -> Mechanical Desing
