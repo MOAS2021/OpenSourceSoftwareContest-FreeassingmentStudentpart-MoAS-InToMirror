@@ -186,7 +186,7 @@ public class Frag2 extends Fragment {
                         ads.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RT" + "LOCAL";
+                                String IDNF = value + "LOCAL";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = et.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -208,7 +208,7 @@ public class Frag2 extends Fragment {
                         zxc.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RT" + "CODE";
+                                String IDNF = value + "CODE";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ry.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -230,7 +230,7 @@ public class Frag2 extends Fragment {
                         qwe.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RT" + "COUNTRY";
+                                String IDNF = value  + "COUNTRY";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ui.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -312,7 +312,7 @@ public class Frag2 extends Fragment {
                         ads.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "LT" + "LOCAL";
+                                String IDNF = value + "LOCAL";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = et.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -334,7 +334,7 @@ public class Frag2 extends Fragment {
                         zxc.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "LT" + "CODE";
+                                String IDNF = value  + "CODE";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ry.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -435,7 +435,7 @@ public class Frag2 extends Fragment {
                         ads.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RM" + "LOCAL";
+                                String IDNF = value  + "LOCAL";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = et.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -457,7 +457,7 @@ public class Frag2 extends Fragment {
                         zxc.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RM" + "CODE";
+                                String IDNF = value  + "CODE";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ry.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -479,7 +479,7 @@ public class Frag2 extends Fragment {
                         qwe.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RM" + "COUNTRY";
+                                String IDNF = value + "COUNTRY";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ui.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -558,7 +558,7 @@ public class Frag2 extends Fragment {
                         ads.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "LM" + "LOCAL";
+                                String IDNF = value + "LOCAL";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = et.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -580,7 +580,7 @@ public class Frag2 extends Fragment {
                         zxc.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "LM" + "CODE";
+                                String IDNF = value  + "CODE";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ry.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -602,7 +602,7 @@ public class Frag2 extends Fragment {
                         qwe.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "LM" + "COUNTRY";
+                                String IDNF = value  + "COUNTRY";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ui.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -681,7 +681,7 @@ public class Frag2 extends Fragment {
                         ads.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RB" + "LOCAL";
+                                String IDNF = value  + "LOCAL";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = et.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -703,7 +703,7 @@ public class Frag2 extends Fragment {
                         zxc.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RB" + "CODE";
+                                String IDNF = value + "CODE";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ry.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -725,7 +725,7 @@ public class Frag2 extends Fragment {
                         qwe.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "RB" + "COUNTRY";
+                                String IDNF = value  + "COUNTRY";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ui.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -804,7 +804,7 @@ public class Frag2 extends Fragment {
                         ads.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "LB" + "LOCAL";
+                                String IDNF = value  + "LOCAL";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = et.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -826,7 +826,7 @@ public class Frag2 extends Fragment {
                         zxc.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "LB" + "CODE";
+                                String IDNF = value + "CODE";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ry.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);
@@ -848,7 +848,7 @@ public class Frag2 extends Fragment {
                         qwe.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                String IDNF = value + "LB" + "COUNTRY";
+                                String IDNF = value  + "COUNTRY";
                                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                                 String inp = ui.getText().toString();
                                 DatabaseReference myRef = database.getReference(IDNF);

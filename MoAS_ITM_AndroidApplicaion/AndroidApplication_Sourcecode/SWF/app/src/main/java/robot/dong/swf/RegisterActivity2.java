@@ -41,6 +41,7 @@ public class RegisterActivity2 extends AppCompatActivity {
         DatabaseReference my4 = database.getReference(ID+"LM");
         DatabaseReference my5 = database.getReference(ID+"RB");
         DatabaseReference my6 = database.getReference(ID+"LB");
+        
 
 
         RB.setOnClickListener(new View.OnClickListener() {
