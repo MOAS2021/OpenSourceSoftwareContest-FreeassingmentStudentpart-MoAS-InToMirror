@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_one"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_looks_one_24"
+        android:title="Sample" />
+    <item
+        android:id="@+id/action_two"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_looks_two_24"
+        android:title="User" />
+    <item
+        android:id="@+id/action_three"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_looks_3_24"
+        android:title="Setting" />
+
+</menu>

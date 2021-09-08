@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+>
+
+    <TextView
+        android:id="@+id/editprofile"
+        android:layout_width="156dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="62dp"
+        android:layout_marginRight="62dp"
+        android:fontFamily="@font/indie_flower"
+        android:gravity="center"
+        android:text="Edit Profile"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/IDname" />
+
+    <ImageView
+        android:id="@+id/IDprofile"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:srcCompat="@drawable/box" />
+
+    <ImageView
+        android:id="@+id/logout"
+        android:layout_width="185dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="13dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/IDprofile"
+        app:srcCompat="@drawable/logout" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/profile" />
+
+    <ImageView
+        android:id="@+id/usage"
+        android:layout_width="311dp"
+        android:layout_height="98dp"
+        android:layout_marginBottom="105dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/usage" />
+
+    <TextView
+        android:id="@+id/IDname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:fontFamily="@font/krona_one"
+        android:gravity="center"
+        android:text="NAME"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/IDprofile"
+        app:layout_constraintTop_toTopOf="@+id/IDprofile" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

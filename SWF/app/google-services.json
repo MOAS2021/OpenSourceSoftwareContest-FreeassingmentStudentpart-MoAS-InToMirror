@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883753120272",
+    "project_id": "chanju-4c75a",
+    "storage_bucket": "chanju-4c75a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883753120272:android:0f898104e0262f2ea5d095",
+        "android_client_info": {
+          "package_name": "robot.dong.swf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883753120272-28e765m9ep7u61hvnknrhe015702svhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArLfwGWj4EzdW2PiqIpgLfdl9_ys-og00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883753120272-28e765m9ep7u61hvnknrhe015702svhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

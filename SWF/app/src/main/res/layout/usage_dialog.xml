@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="12dp"
+        android:textSize="40dp"
+        android:text="사용설명서" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="① 회원가입 버튼을 눌러 좋아하는 캐릭터를 골라주세요." />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+
+        android:text="② 자신의 이름과 비밀번호를 설정해 주세요." />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="③ 다시 메인 화면으로 돌아와 앞서 선택한 캐릭터를 터치하고 로그인을 진행해주세요." />
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="④ 하단의 priview탭은 실재로 보여질 나의 거울을 미리 확인해 볼 수 있어요." />
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="⑤ 하단의 customizing탭은 나의 거울을 개성있게 마음대로 꾸밀 수 있어요." />
+    <TextView
+        android:id="@+id/textViewPassword"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="⑥ 하단의 setting탭은 사용자 정보 변경, 앱정보, 사용설명서, 로그아웃 버튼이 있어요." />
+
+
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:text="확인" />
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/LB"
+        android:layout_width="157dp"
+        android:layout_height="143dp"
+        android:layout_marginTop="25dp"
+        app:layout_constraintStart_toStartOf="@+id/LM"
+        app:layout_constraintTop_toBottomOf="@+id/LM"
+        app:srcCompat="@drawable/music" />
+
+    <ImageView
+        android:id="@+id/RB"
+        android:layout_width="157dp"
+        android:layout_height="143dp"
+        app:layout_constraintEnd_toEndOf="@+id/RM"
+        app:layout_constraintTop_toTopOf="@+id/LB"
+        app:srcCompat="@drawable/sports" />
+
+    <ImageView
+        android:id="@+id/LM"
+        android:layout_width="157dp"
+        android:layout_height="143dp"
+        android:layout_marginTop="25dp"
+        app:layout_constraintStart_toStartOf="@+id/LT"
+        app:layout_constraintTop_toBottomOf="@+id/LT"
+        app:srcCompat="@drawable/stock" />
+
+    <ImageView
+        android:id="@+id/RM"
+        android:layout_width="157dp"
+        android:layout_height="143dp"
+        app:layout_constraintEnd_toEndOf="@+id/RT"
+        app:layout_constraintTop_toTopOf="@+id/LM"
+        app:srcCompat="@drawable/corona" />
+
+    <ImageView
+        android:id="@+id/LT"
+        android:layout_width="157dp"
+        android:layout_height="143dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="75dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/luck" />
+
+    <ImageView
+        android:id="@+id/RT"
+        android:layout_width="157dp"
+        android:layout_height="143dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/LT"
+        app:srcCompat="@drawable/weather" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
