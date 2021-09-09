@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=OSSContest%20MoAS&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=OSSContest%20MoAS&fontSize=90)
 
 
 
