@@ -14,7 +14,7 @@ Contest Link : https://www.oss.kr/dev_competition
 
 Team Name : MoAS
 
-Team Project Name : ITM(In to Mirror)
+Team Project Name : ITM(In To Mirror)
 
 Repository Name : OpenSourceSoftwareContest-FreeassingmentStudentpart-MoAS-InToMirror
 
